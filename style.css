@@ -26,7 +26,8 @@
     padding-left:33px;
   }
   #grid #article{
-    padding-left:25px;
+    padding-left:40px;
+    margin: 0px;
   }
 
   @media(max-width:800px){
